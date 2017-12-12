@@ -1,0 +1,11 @@
+sh ./01--mac-settings.sh
+sh ./02--software-updates.sh
+sh ./03--command-line-tools.sh
+sh ./04--install-homebrew.sh
+sh ./05--install-cli-tools.sh
+sh ./06--install-cask.sh
+sh ./07--install-cask-upgrade.sh
+sh ./08--install-cask-apps.sh
+sh ./09--install-mas--cli.sh
+sh ./10--install-mas-apps.sh
+sh ./99--symlinks.sh
